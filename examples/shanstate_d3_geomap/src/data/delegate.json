@@ -1,0 +1,622 @@
+{
+  "hopang": {
+    "winParty": {
+      "WNP": 2,
+      "USDP": 2
+    },
+    "delegate": {
+      "state1": 6427,
+      "state2": 6431,
+      "pyithu": 2756,
+      "amyotha": 917
+    }
+  },
+  "hopong": {
+    "winParty": {
+      "PNO": 4
+    },
+    "delegate": {
+      "state1": 6100,
+      "state2": 6107,
+      "pyithu": 2603,
+      "amyotha": 909
+    }
+  },
+  "hseni": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6266,
+      "state2": 6271,
+      "pyithu": 2679,
+      "amyotha": 887
+    }
+  },
+  "hsihseng": {
+    "winParty": {
+      "PNO": 4
+    },
+    "delegate": {
+      "state1": 6112,
+      "state2": 6114,
+      "pyithu": 2606,
+      "amyotha": 909
+    }
+  },
+  "hsipaw": {
+    "winParty": {
+      "SNLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 5844,
+      "state2": 5848,
+      "pyithu": 2478,
+      "amyotha": 841
+    }
+  },
+  "kalaw": {
+    "winParty": {
+      "NLD": 4
+    },
+    "delegate": {
+      "state1": 6023,
+      "state2": 6034,
+      "pyithu": 2567,
+      "amyotha": 872
+    }
+  },
+  "kengtung": {
+    "winParty": {
+      "NLD": 4
+    },
+    "delegate": {
+      "state1": 5898,
+      "state2": 5909,
+      "pyithu": 2507,
+      "amyotha": 850
+    }
+  },
+  "konkyan": {
+    "winParty": {
+      "USDP": 4
+    },
+    "delegate": {
+      "state1": 6328,
+      "state2": 6331,
+      "pyithu": 2711,
+      "amyotha": 920
+    }
+  },
+  "kunhing": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6351,
+      "state2": 6357,
+      "pyithu": 2722,
+      "amyotha": 895
+    }
+  },
+  "kunlong": {
+    "winParty": {
+      "USDP": 3,
+      "SNLD": 1
+    },
+    "delegate": {
+      "state1": 6276,
+      "state2": 6283,
+      "pyithu": 2687,
+      "amyotha": 887
+    }
+  },
+  "kutkai": {
+    "winParty": {
+      "TNP": 2,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 6129,
+      "state2": 6135,
+      "amyotha": 878
+    }
+  },
+  "kyaukme": {
+    "winParty": {
+      "SNLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 5830,
+      "state2": 5836,
+      "pyithu": 2472,
+      "amyotha": 841
+    }
+  },
+  "kyethi": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6339,
+      "state2": 6346,
+      "pyithu": 2716,
+      "amyotha": 895
+    }
+  },
+  "laihka": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6401,
+      "state2": 6406,
+      "pyithu": 2744,
+      "amyotha": 895
+    }
+  },
+  "langkho": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6320,
+      "state2": 6321,
+      "pyithu": 2706,
+      "amyotha": 895
+    }
+  },
+  "lashio": {
+    "winParty": {
+      "NLD": 3,
+      "SNLD": 1
+    },
+    "delegate": {
+      "state1": 6249,
+      "state2": 6257,
+      "pyithu": 2670,
+      "amyotha": 887
+    }
+  },
+  "laukkaing": {
+    "winParty": {
+      "USDP": 4
+    },
+    "delegate": {
+      "state1": 6334,
+      "state2": 6337,
+      "pyithu": 2712,
+      "amyotha": 920
+    }
+  },
+  "lawksawk": {
+    "winParty": {
+      "NLD": 4
+    },
+    "delegate": {
+      "state1": 6038,
+      "state2": 6052,
+      "pyithu": 2574,
+      "amyotha": 872
+    }
+  },
+  "loilen": {
+    "winParty": {
+      "SNLD": 2,
+      "PNO": 1,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 6410,
+      "state2": 6419,
+      "pyithu": 2748,
+      "amyotha": 895
+    }
+  },
+  "mabein": {
+    "winParty": {
+      "NLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 6167,
+      "state2": 6170,
+      "pyithu": 2638,
+      "amyotha": 841
+    }
+  },
+  "manton": {
+    "winParty": {
+      "TNP": 4
+    },
+    "delegate": {
+      "state1": 5892,
+      "state2": 5894,
+      "pyithu": 2503,
+      "amyotha": 899
+    }
+  },
+  "matman": {
+    "winParty": {
+      "no_party": 1,
+      "LHNDP": 1,
+      "USDP": 2
+    },
+    "delegate": {
+      "state1": 6188,
+      "state2": 6193,
+      "pyithu": 2646,
+      "amyotha": 917
+    }
+  },
+  "mawkmai": {
+    "winParty": {
+      "SNLD": 2,
+      "USDP": 2
+    },
+    "delegate": {
+      "state1": 6308,
+      "state2": 6311,
+      "pyithu": 2699,
+      "amyotha": 895
+    }
+  },
+  "mongnai": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6286,
+      "state2": 6292,
+      "pyithu": 2691,
+      "amyotha": 895
+    }
+  },
+  "monghpyak": {
+    "winParty": {
+      "USDP": 4
+    },
+    "delegate": {
+      "state1": 5959,
+      "state2": 5965,
+      "pyithu": 2540,
+      "amyotha": 861
+    }
+  },
+  "monghsat": {
+    "winParty": {
+      "USDP": 4
+    },
+    "delegate": {
+      "state1": 6201,
+      "state2": 6206,
+      "pyithu": 2648,
+      "amyotha": 861
+    }
+  },
+  "monghsu": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6390,
+      "state2": 6396,
+      "pyithu": 2740,
+      "amyotha": 895
+    }
+  },
+  "mongkhet": {
+    "winParty": {
+      "USDP": 2,
+      "NLD": 2
+    },
+    "delegate": {
+      "state1": 5914,
+      "state2": 5920,
+      "pyithu": 2512,
+      "amyotha": 850
+    }
+  },
+  "mongmit": {
+    "winParty": {
+      "NLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 6179,
+      "state2": 6187,
+      "pyithu": 2644,
+      "amyotha": 841
+    }
+  },
+  "mongpan": {
+    "winParty": {
+      "SNDP": 2,
+      "USDP": 2
+    },
+    "delegate": {
+      "state1": 6298,
+      "state2": 6305,
+      "pyithu": 2696,
+      "amyotha": 895
+    }
+  },
+  "mongping": {
+    "winParty": {
+      "USDP": 3,
+      "NLD": 1
+    },
+    "delegate": {
+      "state1": 6166,
+      "state2": 6169,
+      "pyithu": 2524,
+      "amyotha": 850
+    }
+  },
+  "mongton": {
+    "winParty": {
+      "USDP": 4
+    },
+    "delegate": {
+      "state1": 6210,
+      "state2": 6216,
+      "pyithu": 2656,
+      "amyotha": 861
+    }
+  },
+  "mongyai": {
+    "winParty": {
+      "SNLD": 4
+    },
+    "delegate": {
+      "state1": 6235,
+      "state2": 6239,
+      "pyithu": 2665,
+      "amyotha": 887
+    }
+  },
+  "mongyang": {
+    "winParty": {
+      "USDP": 3,
+      "NLD": 1
+    },
+    "delegate": {
+      "state1": 5925,
+      "state2": 5928,
+      "pyithu": 2516,
+      "amyotha": 850
+    }
+  },
+  "mongyawng": {
+    "winParty": {
+      "NLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 5974,
+      "state2": 5975,
+      "pyithu": 2543,
+      "amyotha": 861
+    }
+  },
+  "muse": {
+    "winParty": {
+      "SNLD": 2,
+      "USDP": 1,
+      "TNP": 1
+    },
+    "delegate": {
+      "state1": 6151,
+      "state2": 6161,
+      "pyithu": 2632,
+      "amyotha": 878
+    }
+  },
+  "namhkan": {
+    "winParty": {
+      "TNP": 4
+    },
+    "delegate": {
+      "state1": 6144,
+      "state2": 6150,
+      "pyithu": 2624,
+      "amyotha": 878
+    }
+  },
+  "namhsan": {
+    "winParty": {
+      "TNP": 4
+    },
+    "delegate": {
+      "state1": 5882,
+      "state2": 5889,
+      "pyithu": 2500,
+      "amyotha": 899
+    }
+  },
+  "namtu": {
+    "winParty": {
+      "SNLD": 2,
+      "NLD": 1,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 5875,
+      "state2": 5877,
+      "pyithu": 2491,
+      "amyotha": 841
+    }
+  },
+  "nansang": {
+    "winParty": {
+      "USDP": 2,
+      "SNLD": 2
+    },
+    "delegate": {
+      "state1": 6365,
+      "state2": 6370,
+      "pyithu": 2727,
+      "amyotha": 895
+    }
+  },
+  "nawnghkio": {
+    "winParty": {
+      "NLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 5859,
+      "state2": 5864,
+      "pyithu": 2484,
+      "amyotha": 841
+    }
+  },
+  "nyaungshwe": {
+    "winParty": {
+      "NLD": 3
+    },
+    "delegate": {
+      "state1": 6004,
+      "state2": 6018,
+      "pyithu": 2563
+    }
+  },
+  "panglong": {
+    "winParty": {
+      "SNLD": 1
+    },
+    "delegate": {
+      "amyotha": 895
+    }
+  },
+  "pekon": {
+    "winParty": {
+      "NLD": 4
+    },
+    "delegate": {
+      "state1": 6061,
+      "state2": 6068,
+      "pyithu": 2582,
+      "amyotha": 872
+    }
+  },
+  "pindaya": {
+    "winParty": {
+      "USDP": 1,
+      "NLD": 3
+    },
+    "delegate": {
+      "state1": 6088,
+      "state2": 6094,
+      "pyithu": 2594,
+      "amyotha": 905
+    }
+  },
+  "tachileik": {
+    "winParty": {
+      "NLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 5943,
+      "state2": 5950,
+      "pyithu": 2534,
+      "amyotha": 861
+    }
+  },
+  "tangyan": {
+    "winParty": {
+      "SNLD": 3,
+      "USDP": 1
+    },
+    "delegate": {
+      "state1": 6224,
+      "state2": 6229,
+      "pyithu": 2660,
+      "amyotha": 887
+    }
+  },
+  "taunggyi": {
+    "winParty": {
+      "NLD": 4
+    },
+    "delegate": {
+      "state1": 5984,
+      "state2": 6003,
+      "pyithu": 2557,
+      "amyotha": 872
+    }
+  },
+  "ywangan": {
+    "winParty": {
+      "NLD": 4
+    },
+    "delegate": {
+      "state1": 6075,
+      "state2": 6078,
+      "pyithu": 2591,
+      "amyotha": 872
+    }
+  },
+  "pangwaun": {
+    "winParty": {
+      "USDP": 1
+    },
+    "delegate": {
+      "amyotha": 917
+    }
+  },
+  "mongla": {
+    "winParty": {
+      "USDP": 1
+    },
+    "delegate": {
+      "amyotha": 917
+    }
+  },
+  "pinlaung": {
+    "winParty": {
+      "PNO": 4
+    },
+    "delegate": {
+      "state1": 6118,
+      "state2": 6124,
+      "pyithu": 2611,
+      "amyotha": 909
+    }
+  },
+  "mongkaing": {
+    "winParty": {
+      "SNLD": 1
+    },
+    "delegate": {
+      "amyotha": 895
+    }
+  },
+  "pangsang": {
+    "winParty": {
+      "USDP": 1
+    },
+    "delegate": {
+      "amyotha": 917
+    }
+  },
+  "narphan": {
+    "winParty": {
+      "USDP": 1
+    },
+    "delegate": {
+      "amyotha": 917
+    }
+  },
+  "mongmao": {
+    "winParty": {
+      "USDP": 1
+    },
+    "delegate": {
+      "amyotha": 917
+    }
+  }
+}
