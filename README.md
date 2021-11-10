@@ -6,7 +6,7 @@ This is a geo, topology map for Shan state region
 
 ## Learn More
 
-- [Example Project](example/shanstate_d3_geomap) using [d3](https://d3js.org/), [nextjs](https://nextjs.org/)
+- [Example Project](https://github.com/NoerNova/shanstate_geo_maps/tree/main/examples/shanstate_d3_geomap) using [d3](https://d3js.org/), [nextjs](https://nextjs.org/)
 
 ## Screen Shot
 ![Screen Shot 2564-11-10 at 19 00 56](https://user-images.githubusercontent.com/9565672/141111012-62cc6436-49fb-46a9-89c5-e34e871c56c9.png)
